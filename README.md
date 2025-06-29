@@ -137,7 +137,9 @@
 ###
 
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg](https://youtu.be/Iwdep2kdi0s)" width="52" height="40" alt="youtube logo"  />
+  <a href="https://youtu.be/Iwdep2kdi0s?feature=shared" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
 </div>
 
 ###
